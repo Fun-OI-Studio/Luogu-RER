@@ -4,7 +4,7 @@
 
 + **[Github 页面](https://github.com/Jerrycyx/Luogu-RER)**
 
-+ **[Greasy Fork 页面](https://greasyfork.org/zh-CN/scripts/543195-%E6%B4%9B%E8%B0%B7-%E6%A2%A6%E5%9B%9E%E8%80%83%E5%9C%BA)（因为神秘原因无法正常进入）**
++ **[Greasy Fork 页面](https://www.fu.cloudns.be/zh-CN/scripts/543195-%E6%B4%9B%E8%B0%B7-%E6%A2%A6%E5%9B%9E%E8%80%83%E5%9C%BA)（因为神秘原因导致[原站点](https://greasyfork.org/zh-CN)无法正常进入，更换为镜像站）**
 
 各个页面争取同步更新，但因为网络问题通常优先更新洛谷专栏页面。
 
